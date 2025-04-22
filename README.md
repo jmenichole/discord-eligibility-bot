@@ -1,4 +1,4 @@
-# Discord Airdrop Manager
+AirdropGatekeeper
 
 A Discord bot that verifies users as eligible for airdrops and assigns them the "Airdrop Eligible" role based on configurable criteria.
 
